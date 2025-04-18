@@ -14,7 +14,6 @@ function App() {
       <Header />
       <Article />
       <ArticleList />
-
     </div>
   );
 }
